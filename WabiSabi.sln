@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WabiSabi", "WabiSabi2\WabiSabi.csproj", "{D0FC0611-C5E2-482A-9CAB-8807FBB4FB02}"
+EndProject
+Project("{840C416C-B8F3-42BC-B0DD-F6BB14C9F8CB}") = "wabisabicoffee", "wabisabicoffee\wabisabicoffee.aiproj", "{799AB6DF-E56C-4674-BAC7-D13AE4184F0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		All|Any CPU = All|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0FC0611-C5E2-482A-9CAB-8807FBB4FB02}.All|Any CPU.ActiveCfg = Release|Any CPU
+		{D0FC0611-C5E2-482A-9CAB-8807FBB4FB02}.All|Any CPU.Build.0 = Release|Any CPU
+		{D0FC0611-C5E2-482A-9CAB-8807FBB4FB02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0FC0611-C5E2-482A-9CAB-8807FBB4FB02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0FC0611-C5E2-482A-9CAB-8807FBB4FB02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0FC0611-C5E2-482A-9CAB-8807FBB4FB02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{799AB6DF-E56C-4674-BAC7-D13AE4184F0E}.All|Any CPU.ActiveCfg = DefaultBuild
+		{799AB6DF-E56C-4674-BAC7-D13AE4184F0E}.Debug|Any CPU.ActiveCfg = DefaultBuild
+		{799AB6DF-E56C-4674-BAC7-D13AE4184F0E}.Release|Any CPU.ActiveCfg = DefaultBuild
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B35B36B-1E48-45E5-B378-7BF0BF17B0EE}
+	EndGlobalSection
+EndGlobal
